@@ -17,7 +17,7 @@ After diploma,I plan to pursue graduation in the same field and hope to contribu
 
 
 
-# 🌐 Socials: <a href="www.linkedin.com/in/eshita-badhe-31gb" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/...) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@...) [![](https://visitcount.itsvg.in/api?id=Eshita-Badhe&icon=3&color=0)](https://visitcount.itsvg.in)
+# 🌐 Socials: <a href="https://www.linkedin.com/in/eshita-badhe-31gb/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a>  <a href="https://pinterest.com/..." target="_blank"> <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"> <a href="https://youtube.com/@..." target="_blank"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"> [![](https://visitcount.itsvg.in/api?id=Eshita-Badhe&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <br><br>
 # 💻 Tech Stack:<br>
