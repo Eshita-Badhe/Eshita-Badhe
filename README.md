@@ -4,9 +4,10 @@ Hi, I'm Eshita Badhe, a second-year Diploma Computer Science student at Governme
 I have skills in C,C++,Java,Python,OOP,HTML,CSS,JavaScript and SQL.<br>
 I have also participated in a technical event at COEP and PICT. <br>
 I have made a projects like static front-end websites: <br> 
---[https://just-to-read.netlify.app/](url)
+demo:<br>
+-- <a href="https://just-to-read.netlify.app/"> Just-to-read! </a>
 <br>
---[https://quizeeee.netlify.app/](url).
+-- <a href="https://quizeeee.netlify.app/"> Quizee! </a>
 <br>
 --and some more projects related to programming.
 <br><br>
@@ -16,7 +17,7 @@ After diploma,I plan to pursue graduation in the same field and hope to contribu
 
 
 
-# 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/eshita-badhe-31gb) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/...) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@...) [![](https://visitcount.itsvg.in/api?id=Eshita-Badhe&icon=3&color=0)](https://visitcount.itsvg.in)
+# 🌐 Socials: [![LinkedIn] <a href="www.linkedin.com/in/eshita-badhe-31gb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/...) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@...) [![](https://visitcount.itsvg.in/api?id=Eshita-Badhe&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <br><br>
 # 💻 Tech Stack:<br>
