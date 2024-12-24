@@ -3,7 +3,7 @@
 Hi, I'm Eshita Badhe, a second-year Diploma Computer Science student at Government Polytechnic, Pune. I am interested in software development and web development, which I have explored through various coursework and projects.<br><br>
 I have skills in C,C++,Java,Python,OOP,HTML,CSS,JavaScript and SQL.<br>
 I have also participated in a technical event at COEP and PICT. <br>
-I have made a projects like tatic front-end websites: <br> 
+I have made a projects like static front-end websites: <br> 
 --[https://just-to-read.netlify.app/](url)
 <br>
 --[https://quizeeee.netlify.app/](url).
