@@ -4,17 +4,9 @@ Hi, I'm Eshita Badhe, a third-year Diploma Computer Science student at Governmen
 My Portfolio: <a href="https://eshita-badhe.netlify.app/">Eshita-Badhe</a><br><br>
 I have skills in C,C++,Python,DS,OOP,HTML,CSS,JavaScript and SQL.<br>
 I have also participated in a technical event at PCP, PCCOE, COEP and PICT. <br>
-I have made a projects like static front-end websites projects: <br> 
-demo:<br>
--- <a href="https://just-to-read.netlify.app/"> Just-to-read! </a>
-<br>
--- <a href="https://quizeeee.netlify.app/"> Quizee! </a>
-<br>
---and some more projects related to programming.
-I have also made AI integrated projects:<br>
--- First Aid Chatbot
-<br>
--- Virtual News Reporter
+I have made a web development projects with AI-integrations :<br>
+-- Virtual News Reporter<br>
+-- 3DIAL - 3D Avatar for Virtual Presence
 <br><br>
 After diploma,I plan to pursue graduation in the same field and hope to contribute to creating innovative technologies that solve real-world.
 
