@@ -1,6 +1,12 @@
-# Eshita Badhe
-<br><br>
-Hi, I'm Eshita Badhe, a third-year Diploma Computer Science student at Government Polytechnic, Pune. I am interested in software development and web development, which I have explored through various coursework and projects.<br><br>
+<h1 align="center">👋 Hi, I'm Eshita Badhe</h1>
+
+<p align="center">
+I'm a <strong>third-year Diploma Computer Science</strong> student at <strong>Government Polytechnic, Pune</strong>.<br>
+Passionate about <strong>software development, web development, and AI-driven applications</strong>.
+</p>
+
+---
+
 My Portfolio: <a href="https://eshita-badhe.netlify.app/">Eshita-Badhe</a><br><br>
 I have skills in C,C++,Python,DS,OOP,HTML,CSS,JavaScript and SQL.<br>
 I have also participated in a technical event at PCP, PCCOE, COEP and PICT. <br>
@@ -8,34 +14,51 @@ I have made a web development projects with AI-integrations :<br>
 -- Virtual News Reporter<br>
 -- 3DIAL - 3D Avatar for Virtual Presence
 <br><br>
-After diploma,I plan to pursue graduation in the same field and hope to contribute to creating innovative technologies that solve real-world.
-
----
-
 Currently, I am working on projects related to AI/ML and exploring Android App Development.
 
-# 🌐 Socials: <a href="https://www.linkedin.com/in/eshita-badhe-31gb/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a>  <a href="https://pinterest.com/..." target="_blank"> <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"> <a href="https://youtube.com/@..." target="_blank"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"> [![](https://visitcount.itsvg.in/api?id=Eshita-Badhe&icon=3&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<br><br>
-# 💻 Tech Stack:<br>
-<h2>Programming Languages</h2>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+# 🌐 Socials: 
+<a href="https://www.linkedin.com/in/eshita-badhe-31gb/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> 
 
 <br>
-<h2>Web Development</h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+<h2>💻 Tech Stack</h2>
 
-<br>
-<h2>Database</h2>
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</p>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+<p align="center">
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
 
-<br>
-<h2>Others</h2>
+<p align="center">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+<p align="center">
+  <!-- Deployment -->
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Render-FF5521?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+</p>
+
+<p align="center">
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+</p>
 
 ---
 # 📊 GitHub Stats:
