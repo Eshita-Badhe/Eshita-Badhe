@@ -1,9 +1,11 @@
+
 <h1 align="center">👋 Hi, I'm Eshita Badhe</h1>
 
 <p align="center">
 I'm a <strong>third-year Diploma Computer Science</strong> student at <strong>Government Polytechnic, Pune</strong>.<br>
 Passionate about <strong>software development, web development, and AI-driven applications</strong>.
 </p>
+<img src="https://hits.sh/github.com/Eshita-Badhe/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github" align="right"/>
 
 ---
 
@@ -62,8 +64,8 @@ Currently, I am working on projects related to AI/ML and exploring Android App D
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eshita-Badhe&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eshita-Badhe&theme=transparent&hide_border=true)<br/>
+![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/Eshita-Badhe?theme=tokyonight)<br>
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Eshita-Badhe&theme=transparent&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshita-Badhe&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </br>
 
