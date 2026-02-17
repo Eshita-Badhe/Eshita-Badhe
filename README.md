@@ -16,7 +16,7 @@ I have made a web development projects with AI-integrations :<br>
 -- Virtual News Reporter<br>
 -- 3DIAL - 3D Avatar for Virtual Presence
 <br><br>
-Currently, I am working on projects related to AI/ML and exploring Android App Development.
+Currently, I am working on projects related to AI/ML and exploring Open Source Projects.
 
 <br>
 
