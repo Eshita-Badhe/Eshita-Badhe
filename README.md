@@ -21,8 +21,18 @@ Currently, I am working on projects related to AI/ML and exploring Open Source P
 <br>
 
 # 🌐 Socials: 
-<a href="https://www.linkedin.com/in/eshita-badhe-31gb/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> </a> 
 
+<p>
+  <a href="https://www.linkedin.com/in/eshita-badhe-31gb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a><br>
+  <a href="https://x.com/EshitaBadhe" target="_blank">
+    <img src="https://img.shields.io/badge/X.com-000000?logo=x&logoColor=white" alt="X"/>
+  </a><br>
+  <a href="https://www.geeksforgeeks.org/user/eshitabadhe/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
 <br>
 
 <h2>💻 Tech Stack</h2>
