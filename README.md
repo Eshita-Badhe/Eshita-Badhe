@@ -2,22 +2,21 @@
 <h1 align="center">👋 Hi, I'm Eshita Badhe</h1>
 
 <p align="center">
-I'm a <strong>third-year Diploma Computer Science</strong> student at <strong>Government Polytechnic, Pune</strong>.<br>
-Passionate about <strong>software development, web development, and AI-driven applications</strong>.
+  <strong>Backend & AI Developer</strong><br>B.Tech Computer Engineering Student at <strong>Cummins College of Engineering for Women, Pune</strong><br>
+  Diploma Graduate in Computer Engineering from <strong>Government Polytechnic Pune</strong><br>
+  Passionate about building scalable backend systems and AI-powered applications.
 </p>
 <img src="https://hits.sh/github.com/Eshita-Badhe/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github" align="right"/>
 
 ---
 
 My Portfolio: <a href="https://eshita-badhe.netlify.app/">Eshita-Badhe</a><br><br>
-I have skills in C,C++,Python,DS,OOP,HTML,CSS,JavaScript and SQL.<br>
-I have also participated in a technical event at PCP, PCCOE, COEP and PICT. <br>
-I have made a web development projects with AI-integrations :<br>
--- Virtual News Reporter<br>
--- 3DIAL - 3D Avatar for Virtual Presence
-<br><br>
-Currently, I am working on projects related to AI/ML and exploring Open Source Projects.
-
+- 🚀 Backend & AI Developer Intern at **Winnoviz Software Solution Pvt. Ltd.**
+- 🤖 Building production-grade AI applications using **LLMs, RAG, and Agentic AI**
+- ⚙️ Experienced in **Backend Development, System Design, REST APIs, Database Design, and AI Integration**
+- 🌱 Exploring scalable architectures, AI workflows, and open-source development
+- 🏆 3× National Project Competition Winner
+- 💻 Top #5 Contributor at Social Winter of Code (SWoC'26)
 <br>
 
 # 🌐 Socials: 
